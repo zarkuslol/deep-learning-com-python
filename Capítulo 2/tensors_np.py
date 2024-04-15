@@ -3,7 +3,7 @@ import numpy as np
 
 ''' ATENÇÃO: Usando numpy, todas as operações serão feitas na CPU
     Futuramente, iremos ver como fazer as mesmas operações usando tensors do
-    Tensorflow na GPU. '''
+    PyTorch na GPU. '''
 
 # *** Usando numpy (CPU) ***
 
